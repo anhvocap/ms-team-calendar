@@ -1,0 +1,4 @@
+# Visual Studio
+src/SharePointAddInCalendar/bin
+src/SharePointAddInCalendar/obj
+src/.vs/SharePointAddInCalendar
