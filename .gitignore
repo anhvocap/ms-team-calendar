@@ -1,4 +1,8 @@
-# Visual Studio
-src/SharePointAddInCalendar/bin
-src/SharePointAddInCalendar/obj
-src/.vs/SharePointAddInCalendar
+.vs
+.vscode
+bin/
+obj/
+Debug/
+Release/
+
+src/SpAppCalendar/SpAppCalendar.csproj.user
