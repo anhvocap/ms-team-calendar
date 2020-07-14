@@ -5,7 +5,7 @@
     // controllers
     calendarController.$inject = ['$scope', '$q', 'calendarService'];
     function calendarController($scope, $q, calendarService) {
-
+        // constructor
         function activate() {
         }
 
