@@ -32,7 +32,7 @@
 
 <%-- The markup in the following Content element will be placed in the TitleArea of the page --%>
 <asp:Content ContentPlaceHolderID="PlaceHolderPageTitleInTitleArea" runat="server">
-    SharePoint Main Calendar
+    SharePoint App Calendar
 </asp:Content>
 
 <%-- The markup and script in the following Content element will be placed in the <body> of the page --%>
