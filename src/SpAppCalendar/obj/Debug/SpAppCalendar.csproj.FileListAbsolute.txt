@@ -1,4 +1,0 @@
-C:\Projects\sharepoint-calendar\src\SpAppCalendar\obj\Debug\SpAppCalendar.csproj.CoreCompileInputs.cache
-C:\Projects\sharepoint-calendar\src\SpAppCalendar\bin\Debug\SpAppCalendar.pdb
-C:\Projects\sharepoint-calendar\src\SpAppCalendar\obj\Debug\SpAppCalendar.dll
-C:\Projects\sharepoint-calendar\src\SpAppCalendar\obj\Debug\SpAppCalendar.pdb
