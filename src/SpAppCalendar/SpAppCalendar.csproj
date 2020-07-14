@@ -50,6 +50,7 @@
     <Content Include="Content\moment\locales.min.js" />
     <Content Include="Content\moment\moment-with-locales.js" />
     <Content Include="Content\moment\moment-with-locales.min.js" />
+    <Content Include="Elements.xml" />
     <Content Include="Scripts\calendar.js" />
     <Content Include="Scripts\calendarController.js" />
     <Content Include="Scripts\calendarDirective.js" />
@@ -74,6 +75,9 @@
     </None>
     <Content Include="Pages\Elements.xml" />
     <Content Include="Pages\Default.aspx" />
+    <None Include="SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{e93423f4-a634-4fc1-8cf1-03dc9168d1b0}</SharePointProjectItemId>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="Content\jquery\jquery-1.9.1.min.map" />
@@ -118,7 +122,12 @@
       <SubType>Designer</SubType>
     </AppManifestFile>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
