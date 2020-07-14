@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="b53f5781-759a-4af3-8278-a272ca49c6e4" solutionId="b53f5781-759a-4af3-8278-a272ca49c6e4" resetWebServer="false" sharePointProductVersion="16.0" name="SpAppCalendar" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="79ab36c1-5688-4477-99f6-9d02c35d3dcd" />
+  </features>
+</package>
