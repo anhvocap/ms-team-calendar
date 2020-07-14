@@ -46,6 +46,10 @@
     <Content Include="Content\angularjs\angular.min.js" />
     <Content Include="Content\fullcalendar\js\fullcalendar.js" />
     <Content Include="Content\fullcalendar\js\fullcalendar.min.js" />
+    <Content Include="Content\moment\locales.js" />
+    <Content Include="Content\moment\locales.min.js" />
+    <Content Include="Content\moment\moment-with-locales.js" />
+    <Content Include="Content\moment\moment-with-locales.min.js" />
     <Content Include="Scripts\calendar.js" />
     <Content Include="Scripts\calendarController.js" />
     <Content Include="Scripts\calendarDirective.js" />
@@ -59,6 +63,9 @@
     <Content Include="Content\jquery\jquery-1.9.1.min.js" />
     <Content Include="Content\moment\moment.min.js" />
     <None Include="Content\angularjs\angular.min.js.map" />
+    <None Include="Content\moment\locales.min.js.map" />
+    <None Include="Content\moment\moment-with-locales.min.js.map" />
+    <None Include="Content\moment\moment.min.js.map" />
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>

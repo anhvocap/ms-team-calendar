@@ -16,5 +16,12 @@
     <File Path="Content\jquery\jquery-1.9.1.js" Url="Content/jquery/jquery-1.9.1.js" ReplaceContent="TRUE" />
     <File Path="Content\jquery\jquery-1.9.1.intellisense.js" Url="Content/jquery/jquery-1.9.1.intellisense.js" ReplaceContent="TRUE" />
     <File Path="Content\moment\moment.min.js" Url="Content/moment/moment.min.js" ReplaceContent="TRUE" />
+    <File Path="Content\moment\locales.js" Url="Content/moment/locales.js" ReplaceContent="TRUE" />
+    <File Path="Content\moment\locales.min.js" Url="Content/moment/locales.min.js" ReplaceContent="TRUE" />
+    <File Path="Content\moment\locales.min.js.map" Url="Content/moment/locales.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Content\moment\moment.min.js.map" Url="Content/moment/moment.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Content\moment\moment-with-locales.js" Url="Content/moment/moment-with-locales.js" ReplaceContent="TRUE" />
+    <File Path="Content\moment\moment-with-locales.min.js" Url="Content/moment/moment-with-locales.min.js" ReplaceContent="TRUE" />
+    <File Path="Content\moment\moment-with-locales.min.js.map" Url="Content/moment/moment-with-locales.min.js.map" ReplaceContent="TRUE" />
   </Module>
 </Elements>

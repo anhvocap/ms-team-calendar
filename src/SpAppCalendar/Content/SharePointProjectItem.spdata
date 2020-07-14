@@ -17,5 +17,12 @@
     <ProjectItemFile Source="jquery\jquery-1.9.1.js" Target="Content\jquery\" Type="ElementFile" />
     <ProjectItemFile Source="jquery\jquery-1.9.1.intellisense.js" Target="Content\jquery\" Type="ElementFile" />
     <ProjectItemFile Source="moment\moment.min.js" Target="Content\moment\" Type="ElementFile" />
+    <ProjectItemFile Source="moment\locales.js" Target="Content\moment\" Type="ElementFile" />
+    <ProjectItemFile Source="moment\locales.min.js" Target="Content\moment\" Type="ElementFile" />
+    <ProjectItemFile Source="moment\locales.min.js.map" Target="Content\moment\" Type="ElementFile" />
+    <ProjectItemFile Source="moment\moment.min.js.map" Target="Content\moment\" Type="ElementFile" />
+    <ProjectItemFile Source="moment\moment-with-locales.js" Target="Content\moment\" Type="ElementFile" />
+    <ProjectItemFile Source="moment\moment-with-locales.min.js" Target="Content\moment\" Type="ElementFile" />
+    <ProjectItemFile Source="moment\moment-with-locales.min.js.map" Target="Content\moment\" Type="ElementFile" />
   </Files>
 </ProjectItem>

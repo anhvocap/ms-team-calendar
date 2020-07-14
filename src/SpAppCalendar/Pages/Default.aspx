@@ -11,8 +11,8 @@
     <!-- Add your JS library to the following file -->
     <script type="text/javascript" src="../Content/jquery/jquery-1.9.1.min.js"></script>
     <script type="text/javascript" src="../Content/angularjs/angular.min.js"></script>
-    <script type="text/javascript" src="../Content/fullcalendar/js/fullcalendar.min.js"></script>
     <script type="text/javascript" src="../Content/moment/moment.min.js"></script>
+    <script type="text/javascript" src="../Content/fullcalendar/js/fullcalendar.min.js"></script>    
 
     <SharePoint:ScriptLink name="sp.js" runat="server" OnDemand="true" LoadAfterUI="true" Localizable="false" />
     <meta name="WebPartPageExpansion" content="full" />
