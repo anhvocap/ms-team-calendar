@@ -5,6 +5,5 @@
     <File Path="Scripts\calendarController.js" Url="Scripts/calendarController.js" ReplaceContent="TRUE" />
     <File Path="Scripts\calendarDirective.js" Url="Scripts/calendarDirective.js" ReplaceContent="TRUE" />
     <File Path="Scripts\calendarService.js" Url="Scripts/calendarService.js" ReplaceContent="TRUE" />
-    <File Path="Scripts\calendar.js" Url="Scripts/calendar.js" ReplaceContent="TRUE" />
   </Module>
 </Elements>

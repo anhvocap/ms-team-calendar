@@ -6,14 +6,14 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SharePoint App Calendar")]
-[assembly: AssemblyDescription("SharePoint App Calendar")]
+[assembly: AssemblyTitle("Calendar Information")]
+[assembly: AssemblyDescription("Calendar Information")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Home")]
-[assembly: AssemblyProduct("spapp-calendar")]
+[assembly: AssemblyProduct("CalendarInfo")]
 [assembly: AssemblyCopyright("voduyanh1984@gmail.com")]
-[assembly: AssemblyTrademark("spapp-calendar")]
-[assembly: AssemblyCulture("")]
+[assembly: AssemblyTrademark("CalendarInfo")]
+[assembly: AssemblyCulture("en-us")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 
@@ -30,6 +30,6 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("1.1.0.0")]
-[assembly: AssemblyFileVersion("1.1.0.0")]
-[assembly: NeutralResourcesLanguage("en-BW")]
+[assembly: AssemblyVersion("1.1.0.1")]
+[assembly: AssemblyFileVersion("1.1.0.1")]
+[assembly: NeutralResourcesLanguage("en-US")]

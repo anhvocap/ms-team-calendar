@@ -6,6 +6,5 @@
     <ProjectItemFile Source="calendarController.js" Target="Scripts\" Type="ElementFile" />
     <ProjectItemFile Source="calendarDirective.js" Target="Scripts\" Type="ElementFile" />
     <ProjectItemFile Source="calendarService.js" Target="Scripts\" Type="ElementFile" />
-    <ProjectItemFile Source="calendar.js" Target="Scripts\" Type="ElementFile" />
   </Files>
 </ProjectItem>

@@ -23,8 +23,7 @@
     <link rel="Stylesheet" type="text/css" href="../Content/App.css" />
    
     <!-- Add your javascript to the following file -->
-    <script type="text/javascript" src="../Scripts/App.js"></script>
-    <script type="text/javascript" src="../Scripts/calendar.js"></script>
+    <script type="text/javascript" src="../Scripts/App.js"></script>    
     <script type="text/javascript" src="../Scripts/calendarController.js"></script>
     <script type="text/javascript" src="../Scripts/calendarDirective.js"></script>
     <script type="text/javascript" src="../Scripts/calendarService.js"></script>    

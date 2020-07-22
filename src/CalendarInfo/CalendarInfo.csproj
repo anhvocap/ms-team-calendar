@@ -6,8 +6,8 @@
     <ProjectGuid>{F9D7AC0B-E10B-40EA-8E2D-372236D61642}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SpAppCalendar</RootNamespace>
-    <AssemblyName>SpAppCalendar</AssemblyName>
+    <RootNamespace>CalendarInfo</RootNamespace>
+    <AssemblyName>CalendarInfo</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <TargetOfficeVersion>16.1</TargetOfficeVersion>
     <FileAlignment>512</FileAlignment>
@@ -51,7 +51,6 @@
     <Content Include="Content\moment\moment-with-locales.js" />
     <Content Include="Content\moment\moment-with-locales.min.js" />
     <Content Include="Elements.xml" />
-    <Content Include="Scripts\calendar.js" />
     <Content Include="Scripts\calendarController.js" />
     <Content Include="Scripts\calendarDirective.js" />
     <Content Include="Scripts\calendarService.js" />

@@ -32,7 +32,6 @@
     }
 })();
 
-
 // prevent default form submit
 (function () {
     $(document).ready(function () {
@@ -42,7 +41,6 @@
         });
     });
 })();
-
 
 // function generate calendar
 (function () {
@@ -132,5 +130,20 @@
 
         // init calendar
         $('#calendar').fullCalendar(calendar);
+    });
+})();
+
+// calendar app
+(function () {
+    'use strict';
+    angular.module('calendar', [
+        'calendar.controllers',
+        'calendar.directives',
+        'calendar.services'
+    ]);
+
+    // angular bootstrap
+    angular.element(function () {
+        angular.bootstrap(calendar, ['calendar']);
     });
 })();
