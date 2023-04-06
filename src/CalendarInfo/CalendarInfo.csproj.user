@@ -2,5 +2,16 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <OfficeAndSharePointStartAction>Google Chrome</OfficeAndSharePointStartAction>
+    <SharePointSiteUrl>https://development365.sharepoint.com/sites/develop/</SharePointSiteUrl>
   </PropertyGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{C1CDDADD-2546-481F-9697-4EA41081F2FC}">
+        <ProjectStore>
+          <AppInstancePackageModifiedTime>2020-10-15T16:07:23.3186377Z</AppInstancePackageModifiedTime>
+          <AppInstanceId>67e4d173-280f-4f5f-8153-d6132331bada</AppInstanceId>
+        </ProjectStore>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
 </Project>
