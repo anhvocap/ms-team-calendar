@@ -1,2 +1,2 @@
 # sp-app-calendar
-  sp-app-calendar
+  sharepoint app calendar
