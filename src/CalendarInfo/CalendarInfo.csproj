@@ -109,11 +109,11 @@
     <None Include="Package\Package.Template.xml">
       <DependentUpon>Package.package</DependentUpon>
     </None>
-    <None Include="Features\FeatureCalendar\FeatureCalendar.feature">
+    <None Include="Features\CalendarInfo\CalendarInfo.feature">
       <FeatureId>{79ab36c1-5688-4477-99f6-9d02c35d3dcd}</FeatureId>
     </None>
-    <None Include="Features\FeatureCalendar\FeatureCalendar.Template.xml">
-      <DependentUpon>FeatureCalendar.feature</DependentUpon>
+    <None Include="Features\CalendarInfo\CalendarInfo.Template.xml">
+      <DependentUpon>CalendarInfo.feature</DependentUpon>
     </None>
   </ItemGroup>
   <ItemGroup>
